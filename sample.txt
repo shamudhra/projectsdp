@@ -1,3 +1,6 @@
 hi good morning
 welcome
 have a nice day
+good evening 
+good night 
+bye
